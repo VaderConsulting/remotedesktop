@@ -29,4 +29,4 @@ Working copy from my Historical Dev folder `VB/Old/remotedesktop`.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
